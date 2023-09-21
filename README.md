@@ -83,4 +83,4 @@ Calculate the delay of a minimum-sized inverter with Fan-out of 1, 2, 3, 4, 5, 6
 
 ---
 
-[Link to My Google Document]([paste-your-copied-link-here](https://docs.google.com/document/d/1WxOBJtKsvXWUS_HvDQJtJGyJgmDat1aa6TmuxPfPxf8/edit?usp=sharing)https://docs.google.com/document/d/1WxOBJtKsvXWUS_HvDQJtJGyJgmDat1aa6TmuxPfPxf8/edit?usp=sharing)
+[Link to My Google Document](https://docs.google.com/document/d/1WxOBJtKsvXWUS_HvDQJtJGyJgmDat1aa6TmuxPfPxf8/edit?usp=sharing)
