@@ -1,5 +1,7 @@
 # EE 617: VLSI Design - Assignment 2: CMOS Inverter
 
+[Link to the report that I have submitted for this assignment](https://docs.google.com/document/d/1WxOBJtKsvXWUS_HvDQJtJGyJgmDat1aa6TmuxPfPxf8/edit?usp=sharing)
+
 **Due Date:** 11:59 pm, September 14th
 
 **Date:** September 7th, 2023
@@ -82,5 +84,3 @@ Calculate the delay of a minimum-sized inverter with Fan-out of 1, 2, 3, 4, 5, 6
 [Marks : 25]
 
 ---
-
-[Link to My Google Document](https://docs.google.com/document/d/1WxOBJtKsvXWUS_HvDQJtJGyJgmDat1aa6TmuxPfPxf8/edit?usp=sharing)
